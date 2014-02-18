@@ -1,0 +1,16 @@
+
+REST Examples:
+http://harryjoy.com/2012/09/08/simple-rest-client-in-java/
+http://www.vogella.com/tutorials/REST/article.html
+https://weblogs.java.net/blog/cajo/archive/2010/10/16/adding-google-maps-your-java-application
+
+Google API:
+https://developers.google.com/places/documentation/search
+
+Google Key generate:
+http://stackoverflow.com/questions/14440043/how-to-get-google-maps-api-key
+https://code.google.com/apis/console/b/0/?noredirect#project:766360851549:access
+
+
+shell:
+http://vic.gedris.org/Manual-ShellIntro/1.2/ShellIntro.pdf
