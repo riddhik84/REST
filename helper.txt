@@ -1,4 +1,3 @@
-
 REST Examples:
 http://harryjoy.com/2012/09/08/simple-rest-client-in-java/
 http://www.vogella.com/tutorials/REST/article.html
@@ -14,3 +13,6 @@ https://code.google.com/apis/console/b/0/?noredirect#project:766360851549:access
 
 shell:
 http://vic.gedris.org/Manual-ShellIntro/1.2/ShellIntro.pdf
+
+XML parser jar:
+http://www.java2s.com/Code/Jar/j/Downloadjavaxxmlparsers11jar.htm
